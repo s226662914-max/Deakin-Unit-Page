@@ -1,19 +1,29 @@
-
-
 h1 {
-  font-size: 40px;
-  font-family: Arial
+    font-size: 40px;
+    font-family: Arial
 }
 h2 {
-  font-size: 25px;
-  font-family: Arial
+    font-size: 25px;
+    font-family: Arial
 }
 h3 {
-  font-family: Arial
+    font-family: Arial
 }
 p {
-  font-size: 14px;
-  font-family: Arial
+    font-size: 14px;
+    font-family: Arial
 }
 
+.site-header {
+    background-color: #00843D;
+    padding: 16px 24px;
+    text-align: right;
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+}
 
+.site-header img {
+    height: 60px;
+    width: auto;
+}
