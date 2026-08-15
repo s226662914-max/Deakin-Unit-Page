@@ -1,0 +1,13 @@
+# macOS junk
+.DS_Store
+Icon?
+
+# Windows junk
+Thumbs.db
+Desktop.ini
+
+# Editor/IDE
+.idea/
+.vscode/
+*.swp
+*.swo
